@@ -4,7 +4,7 @@
   <title><![CDATA[Artisans logiciel]]></title>
   <link href="http://artisanslogiciel.github.io/atom.xml" rel="self"/>
   <link href="http://artisanslogiciel.github.io/"/>
-  <updated>2014-03-08T14:23:19+01:00</updated>
+  <updated>2014-03-14T18:43:30+01:00</updated>
   <id>http://artisanslogiciel.github.io/</id>
   <author>
     <name><![CDATA[Chaudier Christophe et Pierre-Alexandre Piarulli]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Intro]]></title>
+    <link href="http://artisanslogiciel.github.io/blog/2014/03/13/intro/"/>
+    <updated>2014-03-13T17:45:57+01:00</updated>
+    <id>http://artisanslogiciel.github.io/blog/2014/03/13/intro</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
